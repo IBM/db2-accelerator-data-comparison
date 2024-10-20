@@ -1,5 +1,5 @@
 /**
- * Copyright contributors to the DataDiff project
+ * Copyright contributors to the db2-accelerator-data-comparison project
  */
 package com.ibm.db2.accelerator;
 
